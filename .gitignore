@@ -1,0 +1,27 @@
+# Build output
+out/
+*.class
+*.jar
+
+# Test artifacts
+screenshots/
+health.json
+login.json
+login-bad.json
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*

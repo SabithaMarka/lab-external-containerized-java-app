@@ -1,0 +1,15 @@
+.git
+.gitignore
+.github
+docs
+selenium
+Jenkinsfile
+README.md
+docker-compose.yml
+out
+screenshots
+__pycache__
+*.log
+health.json
+login.json
+login-bad.json
