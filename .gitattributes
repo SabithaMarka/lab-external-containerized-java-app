@@ -1,0 +1,10 @@
+* text=auto
+*.bat text eol=crlf
+*.sh text eol=lf
+Dockerfile text eol=lf
+Jenkinsfile text eol=lf
+*.java text eol=lf
+*.py text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
